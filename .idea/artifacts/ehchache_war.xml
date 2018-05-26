@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ehchache:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ehchache.war">
+      <element id="artifact" artifact-name="ehchache:war exploded" />
+    </root>
+  </artifact>
+</component>
